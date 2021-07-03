@@ -1,0 +1,8 @@
+LIBRARY correxp
+EXPORTS
+correxpInitialize
+correxpInitializeWithHandlers
+correxpTerminate
+correxpPrintStackTrace
+mlxCorrexp
+
